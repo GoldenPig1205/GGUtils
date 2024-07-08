@@ -9,14 +9,16 @@ using Exiled.API.Features;
 using Exiled.API.Enums;
 using PlayerRoles.FirstPersonControl;
 using UnityEngine;
-using GGUtils.Utils;
 using MEC;
+using Exiled.API.Features.Roles;
 
 namespace GGUtils
 {
     public class GGUtils : Plugin<Config>
     {
         public static GGUtils Instance;
+
+        public List<Chracters> Chracters = new List<Chracters>();
 
         public override void OnEnabled()
         {
@@ -50,7 +52,7 @@ namespace GGUtils
             ServerConsole.AddLog($"{ev.Player.Nickname}의 방향 : new Vector3({playerForward.x}f, {playerForward.y}f, {playerForward.z}f)", ConsoleColor.Blue);
 
             if (Physics.Raycast(ev.Player.ReferenceHub.PlayerCameraReference.position + ev.Player.ReferenceHub.PlayerCameraReference.forward * 0.2f, ev.Player.ReferenceHub.PlayerCameraReference.forward, out RaycastHit hit, 99999, InventorySystem.Items.Firearms.Modules.StandardHitregBase.HitregMask))
-                ServerConsole.AddLog($"{ev.Player.Nickname}의 전방 : {hit.transform.parent.name} {hit.collider.name}", ConsoleColor.DarkYellow);
+                ServerConsole.AddLog($"{ev.Player.Nickname}의 전방 : {hit.transform.parent.parent.name} {hit.transform.parent.name} {hit.collider.name}", ConsoleColor.DarkYellow);
         }
 
         public void OnShot(Exiled.Events.EventArgs.Player.ShotEventArgs ev)

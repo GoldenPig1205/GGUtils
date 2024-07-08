@@ -111,6 +111,9 @@
     <Compile Include="GGUtils\Commands\GGUtils.Commands.cs" />
     <Compile Include="GGUtils\Configs\Config.cs" />
     <Compile Include="GGUtils\GGUtils.cs" />
+    <Compile Include="GGUtils\Utils\Chracters.cs" />
+    <Compile Include="GGUtils\Utils\Extensions.cs" />
+    <Compile Include="GGUtils\Utils\Gtool.cs" />
     <Compile Include="GGUtils\Utils\HealthObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

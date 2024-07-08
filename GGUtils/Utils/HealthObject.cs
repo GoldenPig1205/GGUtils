@@ -7,7 +7,7 @@ using UnityEngine;
 using Exiled.API.Features;
 using Exiled.API.Features.DamageHandlers;
 
-namespace GGUtils.Utils
+namespace GGUtils
 {
     internal class HealthObject
     {
@@ -30,6 +30,5 @@ namespace GGUtils.Utils
                     hit.collider.name = (Health - Damage).ToString();
             }
         }
-
     }
 }
