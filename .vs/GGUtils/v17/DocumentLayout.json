@@ -1,34 +1,34 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\",
+  "WorkspaceRootPath": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|c:\\users\\goldenpig1205\\desktop\\goldenpig1205\\visual studio 2022\\ggutils\\ggutils\\ggutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\ggutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\chracters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\utils\\chracters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\configs\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\configs\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\gtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|c:\\users\\pkj73\\desktop\\goldenpig1205\\visual studio 2022\\ggutils\\ggutils\\utils\\gtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\utils\\gtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\healthobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\chracters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\utils\\chracters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\healthobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\utils\\healthobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\utils\\extensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\commands\\ggutils.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\commands\\ggutils.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\commands\\ggutils.commands.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\configs\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\configs\\config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\ggutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\ggutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,28 +38,27 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "GGUtils.cs",
-              "DocumentMoniker": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\GGUtils.cs",
+              "DocumentMoniker": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\GGUtils.cs",
               "RelativeDocumentMoniker": "GGUtils\\GGUtils.cs",
-              "ToolTip": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\GGUtils.cs",
+              "ToolTip": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\GGUtils.cs",
               "RelativeToolTip": "GGUtils\\GGUtils.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAJAAAA",
+              "ViewState": "AQIAADIAAAAAAAAAAAAQwCQAAAA5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T09:52:59.436Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-21T09:52:59.436Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Config.cs",
-              "DocumentMoniker": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Configs\\Config.cs",
+              "DocumentMoniker": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Configs\\Config.cs",
               "RelativeDocumentMoniker": "GGUtils\\Configs\\Config.cs",
-              "ToolTip": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Configs\\Config.cs",
+              "ToolTip": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Configs\\Config.cs",
               "RelativeToolTip": "GGUtils\\Configs\\Config.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -67,23 +66,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "GGUtils.Commands.cs",
-              "DocumentMoniker": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Commands\\GGUtils.Commands.cs",
+              "DocumentMoniker": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Commands\\GGUtils.Commands.cs",
               "RelativeDocumentMoniker": "GGUtils\\Commands\\GGUtils.Commands.cs",
-              "ToolTip": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Commands\\GGUtils.Commands.cs",
+              "ToolTip": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Commands\\GGUtils.Commands.cs",
               "RelativeToolTip": "GGUtils\\Commands\\GGUtils.Commands.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAcwEcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-22T10:55:14.425Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Extensions.cs",
-              "DocumentMoniker": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Extensions.cs",
+              "DocumentMoniker": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Extensions.cs",
               "RelativeDocumentMoniker": "GGUtils\\Utils\\Extensions.cs",
-              "ToolTip": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Extensions.cs",
+              "ToolTip": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Extensions.cs",
               "RelativeToolTip": "GGUtils\\Utils\\Extensions.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -91,11 +90,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "HealthObject.cs",
-              "DocumentMoniker": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\HealthObject.cs",
+              "DocumentMoniker": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\HealthObject.cs",
               "RelativeDocumentMoniker": "GGUtils\\Utils\\HealthObject.cs",
-              "ToolTip": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\HealthObject.cs",
+              "ToolTip": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\HealthObject.cs",
               "RelativeToolTip": "GGUtils\\Utils\\HealthObject.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -103,23 +102,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Gtool.cs",
-              "DocumentMoniker": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Gtool.cs",
+              "DocumentMoniker": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Gtool.cs",
               "RelativeDocumentMoniker": "GGUtils\\Utils\\Gtool.cs",
-              "ToolTip": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Gtool.cs",
+              "ToolTip": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Gtool.cs",
               "RelativeToolTip": "GGUtils\\Utils\\Gtool.cs",
-              "ViewState": "AQIAAFAAAAAAAAAAAAAcwGgAAAAJAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-23T09:40:36.741Z"
+              "WhenOpened": "2024-06-23T09:40:36.741Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Chracters.cs",
-              "DocumentMoniker": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Chracters.cs",
+              "DocumentMoniker": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Chracters.cs",
               "RelativeDocumentMoniker": "GGUtils\\Utils\\Chracters.cs",
-              "ToolTip": "C:\\Users\\GoldenPig1205\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Chracters.cs",
+              "ToolTip": "C:\\Users\\pkj73\\Desktop\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Chracters.cs",
               "RelativeToolTip": "GGUtils\\Utils\\Chracters.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

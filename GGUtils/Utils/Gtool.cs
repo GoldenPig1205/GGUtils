@@ -28,7 +28,7 @@ namespace GGUtils
 
         public static string ConventToAudioPath(string filename)
         {
-            return $"C:/Users/GoldenPig1205/AppData/Roaming/EXILED/Plugins/audio/{filename}.ogg";
+            return Paths.Plugins + $"/audio/{filename}.ogg";
         }
 
         public static void PlaySound(string Name, string AudioFileName, VoiceChatChannel BroadcastChannel = VoiceChatChannel.Proximity, int Volume = 100, bool Loop = false)
@@ -102,6 +102,11 @@ namespace GGUtils
                 HideFromList(Chracters);
             }
             catch (Exception ex) { }
+        }
+
+        public static Player PlayerGet(string Name)
+        {
+            return Player.Get(GGUtils.Instance.Chracters.Find(x => x.Name == Name).npc.PlayerId);
         }
     }
 }
