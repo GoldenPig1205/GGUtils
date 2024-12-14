@@ -50,10 +50,10 @@ namespace GGUtils.Commands
             try
             {
                 Player player = Player.Get(arguments.At(0));
-                string hint = arguments.At(1);
-                float duration = float.Parse(arguments.At(2));
+                float duration = float.Parse(arguments.At(1));
+                string text = string.Join(" ", arguments.ToList().Skip(2));
 
-                player.ShowHint(hint, duration);
+                player.ShowHint(text, duration);
                 response = $"Success!";
                 return true;
             }
