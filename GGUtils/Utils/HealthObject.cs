@@ -9,7 +9,7 @@ using Exiled.API.Features.DamageHandlers;
 
 namespace GGUtils
 {
-    internal class HealthObject
+    public static class HealthObject
     {
         public static void DamageObject(Player player, float damage, RaycastHit hit)
         {
