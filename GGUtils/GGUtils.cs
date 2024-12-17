@@ -61,7 +61,25 @@ namespace GGUtils
         public void OnShot(Exiled.Events.EventArgs.Player.ShotEventArgs ev)
         {
             if (Physics.Raycast(ev.Player.ReferenceHub.PlayerCameraReference.position + ev.Player.ReferenceHub.PlayerCameraReference.forward * 0.2f, ev.Player.ReferenceHub.PlayerCameraReference.forward, out RaycastHit hit, 1000, (LayerMask)1))
-                HealthObject.DamageObject(ev.Player, ev.Damage, hit);
+            {
+                Dictionary<FirearmType, int> Firearm = new Dictionary<FirearmType, int>() {
+                    { FirearmType.Com15, 25 }, 
+                    { FirearmType.Com18, 25 }, 
+                    { FirearmType.FSP9, 22 }, 
+                    { FirearmType.Crossvec, 23 }, 
+                    { FirearmType.E11SR, 26 },
+                    { FirearmType.FRMG0, 24 }, 
+                    { FirearmType.Revolver, 51 }, 
+                    { FirearmType.Shotgun, 8 }, 
+                    { FirearmType.AK, 35 }, 
+                    { FirearmType.Logicer, 25 },
+                    { FirearmType.A7, 26 }, 
+                    { FirearmType.Com45, 25 }, 
+                    { FirearmType.ParticleDisruptor, 250 }
+                };
+
+                HealthObject.DamageObject(ev.Player, Firearm[ev.Firearm.FirearmType], hit);
+            }
         }
 
         public void OnUsingMicroHIDEnergy(Exiled.Events.EventArgs.Player.UsingMicroHIDEnergyEventArgs ev)

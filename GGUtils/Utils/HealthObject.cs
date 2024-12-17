@@ -15,8 +15,10 @@ namespace GGUtils
         {
             string ObjectName = hit.transform.parent.name;
             int Health;
+
             if (!int.TryParse(hit.collider.name, out Health))
                 return;
+
             int Damage = (int)damage;
 
             if (ObjectName.StartsWith("CustomSchematic-da_"))
@@ -24,10 +26,14 @@ namespace GGUtils
                 Hitmarker.SendHitmarkerDirectly(player.ReferenceHub, 2f);
 
                 if (Health <= Damage)
-                    GameObject.Destroy(hit.collider.gameObject);
+                    GameObject.DestroyImmediate(hit.transform.gameObject);
 
                 else
-                    hit.collider.name = (Health - Damage).ToString();
+                {
+                    hit.transform.name = (Health - Damage).ToString();
+                }
+
+                Log.Info(hit.transform.name);
             }
         }
     }

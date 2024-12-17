@@ -7,7 +7,7 @@
       "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\utils\\healthobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|d:\\goldenpig1205\\visual studio 2022\\ggutils\\ggutils\\utils\\gtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|D:\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\ggutils\\utils\\gtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CEB2BC6D-FCEE-4648-B5FF-A734B806BB3C}|GGUtils.csproj|solutionrelative:ggutils\\utils\\gtool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "GGUtils\\Utils\\HealthObject.cs",
               "ToolTip": "D:\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\HealthObject.cs",
               "RelativeToolTip": "GGUtils\\Utils\\HealthObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-16T09:40:55.864Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "GGUtils\\Utils\\Gtool.cs",
               "ToolTip": "D:\\GoldenPig1205\\Visual Studio 2022\\GGUtils\\GGUtils\\Utils\\Gtool.cs",
               "RelativeToolTip": "GGUtils\\Utils\\Gtool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-08T13:58:42.502Z",
               "EditorCaption": ""
