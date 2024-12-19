@@ -1,6 +1,4 @@
-﻿/* GGUtils (ver. Alpha 0.0.1) */
-
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -79,7 +77,6 @@ namespace GGUtils
                 };
 
                 HealthObject.DamageObject(ev.Player, Firearm[ev.Firearm.FirearmType], hit);
-                GlassObject.DamageObject(ev.Player, Firearm[ev.Firearm.FirearmType], hit);
 
             }
         }

@@ -32,8 +32,6 @@ namespace GGUtils
                 {
                     hit.transform.name = (Health - Damage).ToString();
                 }
-
-                Log.Info(hit.transform.name);
             }
         }
     }

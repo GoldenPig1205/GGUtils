@@ -32,7 +32,10 @@
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="0Harmony">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\dependencies\0Harmony.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\dependencies\0Harmony.dll</HintPath>
+    </Reference>
+    <Reference Include="AMERTAudioModule">
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\dependencies\AMERTAudioModule.dll</HintPath>
     </Reference>
     <Reference Include="Assembly-CSharp">
       <HintPath>..\..\SCPSL\SCPSL_Data\Managed\Assembly-CSharp.dll</HintPath>
@@ -44,7 +47,7 @@
       <HintPath>..\..\SCPSL\SCPSL_Data\Managed\Assembly-CSharp-Publicized.dll</HintPath>
     </Reference>
     <Reference Include="AudioPlayer">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\AudioPlayer.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\AudioPlayer.dll</HintPath>
     </Reference>
     <Reference Include="CommandSystem.Core, Version=0.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -54,10 +57,10 @@
       <HintPath>..\DiscordInteraction\bin\Debug\DiscordInteraction.dll</HintPath>
     </Reference>
     <Reference Include="Exiled.API">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\dependencies\Exiled.API.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\dependencies\Exiled.API.dll</HintPath>
     </Reference>
     <Reference Include="Exiled.CreditTags">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\Exiled.CreditTags.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\Exiled.CreditTags.dll</HintPath>
     </Reference>
     <Reference Include="Exiled.CustomItems">
       <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\Exiled.CustomItems.dll</HintPath>
@@ -66,13 +69,13 @@
       <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\Exiled.CustomRoles.dll</HintPath>
     </Reference>
     <Reference Include="Exiled.Events">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\Exiled.Events.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\Exiled.Events.dll</HintPath>
     </Reference>
     <Reference Include="Exiled.Loader">
       <HintPath>..\..\..\..\AppData\Roaming\SCP Secret Laboratory\PluginAPI\plugins\global\Exiled.Loader.dll</HintPath>
     </Reference>
     <Reference Include="Exiled.Permissions">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\Exiled.Permissions.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\Exiled.Permissions.dll</HintPath>
     </Reference>
     <Reference Include="MapEditorReborn">
       <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\MapEditorReborn.dll</HintPath>
@@ -82,10 +85,10 @@
       <HintPath>..\..\SCPSL\SCPSL_Data\Managed\Mirror.dll</HintPath>
     </Reference>
     <Reference Include="MultiBroadcast">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\MultiBroadcast.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\MultiBroadcast.dll</HintPath>
     </Reference>
     <Reference Include="NVorbis">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\dependencies\NVorbis.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\dependencies\NVorbis.dll</HintPath>
     </Reference>
     <Reference Include="PluginAPI">
       <HintPath>..\..\SCPSL\SCPSL_Data\Managed\PluginAPI.dll</HintPath>
@@ -94,10 +97,13 @@
       <HintPath>..\..\SCPSL\SCPSL_Data\Managed\Pooling.dll</HintPath>
     </Reference>
     <Reference Include="SCPSLAudioApi">
-      <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\dependencies\SCPSLAudioApi.dll</HintPath>
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\dependencies\SCPSLAudioApi.dll</HintPath>
     </Reference>
     <Reference Include="Site02">
       <HintPath>..\Site02\bin\Debug\Site02.dll</HintPath>
+    </Reference>
+    <Reference Include="SLPlayerRotation">
+      <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\dependencies\SLPlayerRotation.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
@@ -128,7 +134,6 @@
     <Compile Include="GGUtils\GGUtils.cs" />
     <Compile Include="GGUtils\Utils\Chracters.cs" />
     <Compile Include="GGUtils\Utils\Extensions.cs" />
-    <Compile Include="GGUtils\Utils\GlassObject.cs" />
     <Compile Include="GGUtils\Utils\Gtool.cs" />
     <Compile Include="GGUtils\Utils\HealthObject.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
