@@ -53,7 +53,7 @@ namespace GGUtils
             ServerConsole.AddLog($"{ev.Player.Nickname}의 방향 : new Vector3({playerForward.x}f, {playerForward.y}f, {playerForward.z}f)", ConsoleColor.Blue);
 
             if (Physics.Raycast(ev.Player.ReferenceHub.PlayerCameraReference.position + ev.Player.ReferenceHub.PlayerCameraReference.forward * 0.2f, ev.Player.ReferenceHub.PlayerCameraReference.forward, out RaycastHit hit, 99999, (LayerMask)1))
-                ServerConsole.AddLog($"{ev.Player.Nickname}의 전방 : {hit.transform.parent.parent.name} {hit.transform.parent.name} {hit.collider.name}", ConsoleColor.DarkYellow);
+                ServerConsole.AddLog($"{ev.Player.Nickname}의 전방 : {hit.transform.parent.parent.name}ㅣ{hit.transform.parent.name}ㅣ{hit.collider.name}", ConsoleColor.DarkYellow);
         }
 
         public void OnShot(Exiled.Events.EventArgs.Player.ShotEventArgs ev)
