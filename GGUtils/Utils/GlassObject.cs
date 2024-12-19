@@ -35,6 +35,8 @@ namespace GGUtils
                         rigid.useGravity = true;
                         rigid.mass = 0.1f;
                         rigid.drag = 0.1f;
+
+                        _glass.name = "broken glass";
                     }
                 }
                 else
