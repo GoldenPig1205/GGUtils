@@ -108,5 +108,15 @@ namespace GGUtils
         {
             return Player.Get(GGUtils.Instance.Chracters.Find(x => x.Name == Name).npc.PlayerId);
         }
+
+        public static List<Transform> GetChild(Transform parent)
+        {
+            List<Transform> list = new List<Transform>();
+
+            for (int i = 0; i < parent.childCount; i++)
+                list.Add(parent.GetChild(i));
+
+            return list;
+        }
     }
 }

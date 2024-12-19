@@ -79,6 +79,8 @@ namespace GGUtils
                 };
 
                 HealthObject.DamageObject(ev.Player, Firearm[ev.Firearm.FirearmType], hit);
+                GlassObject.DamageObject(ev.Player, Firearm[ev.Firearm.FirearmType], hit);
+
             }
         }
 
