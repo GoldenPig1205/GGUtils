@@ -83,7 +83,7 @@ namespace GGUtils
 
         public void OnUsingMicroHIDEnergy(Exiled.Events.EventArgs.Player.UsingMicroHIDEnergyEventArgs ev)
         {
-            if (ev.MicroHID.State == InventorySystem.Items.MicroHID.HidState.Firing)
+            if (ev.MicroHID.State == InventorySystem.Items.MicroHID.Modules.MicroHidPhase.Firing)
             {
                 if (Physics.Raycast(ev.Player.ReferenceHub.PlayerCameraReference.position + ev.Player.ReferenceHub.PlayerCameraReference.forward * 0.2f, ev.Player.ReferenceHub.PlayerCameraReference.forward, out RaycastHit hit, 5, (LayerMask)1))
                     HealthObject.DamageObject(ev.Player, 120, hit);

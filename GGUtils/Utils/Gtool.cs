@@ -85,11 +85,6 @@ namespace GGUtils
                 hub.authManager.NetworkSyncedUserId = name;
                 hub.TryOverridePosition(pos + Vector3.up * 1.5f, Vector3.zero);
             });
-            Npc npc = new Npc(gameObject)
-            {
-                IsNPC = true,
-            };
-            Player.Dictionary.Add(gameObject, npc);
             return hub;
         }
 
