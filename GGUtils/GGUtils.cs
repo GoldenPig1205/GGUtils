@@ -46,10 +46,13 @@ namespace GGUtils
             FpcStandardRoleBase playerRole = playerHub.roleManager.CurrentRole as FpcStandardRoleBase;
             Vector3 playerForward = playerRole.transform.forward;
 
-            Vector3 pos = ev.Player.Position - ev.Player.CurrentRoom.Position;
+            if (ev.Player.CurrentRoom != null)
+            {
+                Vector3 pos = ev.Player.Position - ev.Player.CurrentRoom.Position;
+                ServerConsole.AddLog($"{ev.Player.Nickname}의 상대적 위치 : RoomType.{ev.Player.CurrentRoom.Type} new Vector3({pos.x}f, {pos.y}f, {pos.z}f)");
+            }
 
             ServerConsole.AddLog($"{ev.Player.Nickname}의 위치 : new Vector3({ev.Player.Position.x}f, {ev.Player.Position.y}f, {ev.Player.Position.z}f)", ConsoleColor.DarkMagenta);
-            ServerConsole.AddLog($"{ev.Player.Nickname}의 상대적 위치 : RoomType.{ev.Player.CurrentRoom.Type} new Vector3({pos.x}f, {pos.y}f, {pos.z}f)");
             ServerConsole.AddLog($"{ev.Player.Nickname}의 방향 : new Vector3({playerForward.x}f, {playerForward.y}f, {playerForward.z}f)", ConsoleColor.Blue);
 
             if (Physics.Raycast(ev.Player.ReferenceHub.PlayerCameraReference.position + ev.Player.ReferenceHub.PlayerCameraReference.forward * 0.2f, ev.Player.ReferenceHub.PlayerCameraReference.forward, out RaycastHit hit, 99999, (LayerMask)1))
