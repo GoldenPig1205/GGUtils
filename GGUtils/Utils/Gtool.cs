@@ -83,7 +83,7 @@ namespace GGUtils
                 string name = "ID_Dedicated";
                 hub.authManager.UserId = name;
                 hub.authManager.NetworkSyncedUserId = name;
-                hub.TryOverridePosition(pos + Vector3.up * 1.5f, Vector3.zero);
+                //hub.TryOverridePosition(pos + Vector3.up * 1.5f, Vector3.zero);
             });
             return hub;
         }
