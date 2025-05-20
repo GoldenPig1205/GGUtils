@@ -79,7 +79,7 @@
       <HintPath>C:\Users\GoldenPig1205\AppData\Roaming\EXILED\Plugins\Exiled.Permissions.dll</HintPath>
     </Reference>
     <Reference Include="LabApi">
-      <HintPath>..\..\SCPSL\SCPSL_Data\Managed\LabApi.dll</HintPath>
+      <HintPath>..\..\SCPSL\14.1\SCPSL_Data\Managed\LabApi.dll</HintPath>
     </Reference>
     <Reference Include="MapEditorReborn">
       <HintPath>..\..\..\Users\11010박경현\AppData\Roaming\EXILED\Plugins\MapEditorReborn.dll</HintPath>
