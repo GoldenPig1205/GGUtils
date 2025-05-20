@@ -76,7 +76,8 @@ namespace GGUtils
                     { FirearmType.Logicer, 25 },
                     { FirearmType.A7, 26 }, 
                     { FirearmType.Com45, 25 }, 
-                    { FirearmType.ParticleDisruptor, 250 }
+                    { FirearmType.ParticleDisruptor, 250 },
+                    { FirearmType.Scp127, 30 }
                 };
 
                 HealthObject.DamageObject(ev.Player, Firearm[ev.Firearm.FirearmType], hit);
